@@ -1,0 +1,2 @@
+apps/web/** filter=git-crypt
+apps/docs/** filter=git-crypt
